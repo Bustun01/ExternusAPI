@@ -13,7 +13,6 @@
         <module>common</module>
         <module>bukkit</module>
         <module>bungee</module>
-        <module>common-test</module>
     </modules>
 
     <name>ExtAPI</name>

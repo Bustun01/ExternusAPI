@@ -19,7 +19,6 @@
 
     <modules>
         <module>bungee-api</module>
-        <module>bungee-test-plugin</module>
     </modules>
 
     <build>

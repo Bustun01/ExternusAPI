@@ -19,7 +19,6 @@
 
     <modules>
         <module>bukkit-api</module>
-        <module>bukkit-test-plugin</module>
     </modules>
 
     <build>
